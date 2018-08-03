@@ -1,0 +1,6 @@
+{
+  "extends": "locomote",
+  "rules": {
+    "comma-dangle": ["error", "always"]
+  }
+}
